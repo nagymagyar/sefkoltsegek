@@ -1,0 +1,105 @@
+id;chefname;datum;kategoria;osszeg;megjegyzes
+﻿id;chefname;datum;kategoria;osszeg;megjegyzes
+1;Oscar Weber;2025-03-06;Other;240;Miscellaneous expenses
+2;Ava Martinez;2025-07-01;Accommodation;191;Hotel stay for the event
+3;Tiffany Moore;2025-05-19;Equipment;396;Rental of kitchen equipment
+4;Roberto Holz;2025-03-30;Travel;114;Flight ticket to event
+5;Sophia Ricci;2025-05-04;Ingredients;302;Special ingredients for menu
+6;Victor Lee;2025-07-22;Equipment;189;Rental of kitchen equipment
+7;Sophia Ricci;2025-08-19;Accommodation;460;Hotel stay for the event
+8;Samir Patel;2025-04-22;Travel;396;Flight ticket to event
+9;Victor Lee;2025-04-14;Accommodation;455;Hotel stay for the event
+10;Pamela Dawson;2025-02-24;Accommodation;70;Hotel stay for the event
+11;Luca Bianchi;2025-07-07;Ingredients;398;Special ingredients for menu
+12;Pamela Dawson;2025-10-17;Accommodation;386;Hotel stay for the event
+13;Elisa Turner;2025-09-11;Accommodation;178;Hotel stay for the event
+14;James Holt;2025-01-27;Travel;297;Flight ticket to event
+15;Oscar Weber;2025-06-13;Accommodation;296;Hotel stay for the event
+16;Elisa Turner;2025-06-14;Ingredients;415;Special ingredients for menu
+17;Nina Kim;2025-10-27;Accommodation;152;Hotel stay for the event
+18;Victor Lee;2025-03-03;Ingredients;257;Special ingredients for menu
+19;Luca Bianchi;2025-01-13;Accommodation;183;Hotel stay for the event
+20;Oscar Weber;2025-12-27;Equipment;279;Rental of kitchen equipment
+21;James Holt;2025-11-03;Accommodation;286;Hotel stay for the event
+22;Nina Kim;2025-09-23;Travel;271;Flight ticket to event
+23;Alejandro Torres;2025-09-10;Equipment;395;Rental of kitchen equipment
+24;Luca Bianchi;2025-02-19;Travel;179;Flight ticket to event
+25;Sophia Ricci;2025-07-13;Other;310;Miscellaneous expenses
+26;Roberto Holz;2025-10-22;Equipment;334;Rental of kitchen equipment
+27;Olivia Bennett;2025-05-02;Other;355;Miscellaneous expenses
+28;Sophia Ricci;2025-06-05;Travel;461;Flight ticket to event
+29;Amelie Laurent;2025-07-22;Other;409;Miscellaneous expenses
+30;Alejandro Torres;2025-06-11;Equipment;223;Rental of kitchen equipment
+31;Isabelle Dubois;2025-11-29;Ingredients;347;Special ingredients for menu
+32;Sophia Ricci;2025-08-16;Ingredients;489;Special ingredients for menu
+33;Trenin Nubiru;2025-04-24;Other;323;Miscellaneous expenses
+34;Greta Fischer;2025-07-30;Equipment;94;Rental of kitchen equipment
+35;Pamela Dawson;2025-11-08;Accommodation;140;Hotel stay for the event
+36;Peter Novak;2025-11-08;Equipment;180;Rental of kitchen equipment
+37;Isabelle Dubois;2025-05-15;Accommodation;139;Hotel stay for the event
+38;Trenin Nubiru;2025-07-15;Accommodation;432;Hotel stay for the event
+39;Tiffany Moore;2025-06-27;Other;347;Miscellaneous expenses
+40;Nicolas Moreau;2025-05-30;Equipment;236;Rental of kitchen equipment
+41;Carlos Mendes;2025-06-01;Travel;146;Flight ticket to event
+42;Nina Kim;2025-08-19;Accommodation;267;Hotel stay for the event
+43;James Holt;2025-12-21;Ingredients;230;Special ingredients for menu
+44;Nicolas Moreau;2025-06-24;Ingredients;277;Special ingredients for menu
+45;Isabelle Dubois;2025-01-06;Other;371;Miscellaneous expenses
+46;David Keller;2025-05-01;Travel;382;Flight ticket to event
+47;Olivia Bennett;2025-10-06;Equipment;204;Rental of kitchen equipment
+48;Victor Lee;2025-07-10;Travel;353;Flight ticket to event
+49;Carlos Mendes;2025-04-17;Travel;305;Flight ticket to event
+50;Nicolas Moreau;2025-05-12;Travel;119;Flight ticket to event
+51;Tiffany Moore;2025-07-22;Other;311;Miscellaneous expenses
+52;Alejandro Torres;2025-12-06;Ingredients;191;Special ingredients for menu
+53;Nicolas Moreau;2025-10-26;Equipment;189;Rental of kitchen equipment
+54;Alejandro Torres;2025-04-07;Travel;192;Flight ticket to event
+55;Luca Bianchi;2025-02-27;Accommodation;75;Hotel stay for the event
+56;Ava Martinez;2025-05-28;Travel;439;Flight ticket to event
+57;Olivia Bennett;2025-06-23;Ingredients;110;Special ingredients for menu
+58;Amelie Laurent;2025-06-02;Ingredients;74;Special ingredients for menu
+59;Carlos Mendes;2025-01-25;Accommodation;343;Hotel stay for the event
+60;Brooke Baevsky;2025-10-17;Other;465;Miscellaneous expenses
+61;David Keller;2025-06-09;Accommodation;183;Hotel stay for the event
+62;Olivia Bennett;2025-01-26;Other;427;Miscellaneous expenses
+63;Nina Kim;2025-12-28;Other;250;Miscellaneous expenses
+64;Victor Lee;2025-10-24;Equipment;142;Rental of kitchen equipment
+65;David Keller;2025-05-19;Other;102;Miscellaneous expenses
+66;Marcus Evans;2025-09-29;Accommodation;70;Hotel stay for the event
+67;Luca Bianchi;2025-07-28;Travel;124;Flight ticket to event
+68;Tiffany Moore;2025-03-28;Accommodation;264;Hotel stay for the event
+69;Victor Lee;2025-07-29;Other;288;Miscellaneous expenses
+70;Marcus Evans;2025-12-24;Travel;52;Flight ticket to event
+71;Nina Kim;2025-01-14;Equipment;98;Rental of kitchen equipment
+72;Greta Fischer;2025-09-13;Accommodation;112;Hotel stay for the event
+73;Carlos Mendes;2025-08-31;Other;211;Miscellaneous expenses
+74;Tiffany Moore;2025-12-08;Accommodation;216;Hotel stay for the event
+75;Anil Sharma;2025-05-19;Equipment;120;Rental of kitchen equipment
+76;Victor Lee;2025-01-03;Accommodation;462;Hotel stay for the event
+77;Carlos Mendes;2025-02-13;Travel;63;Flight ticket to event
+78;James Holt;2025-06-02;Other;144;Miscellaneous expenses
+79;Samir Patel;2025-12-08;Accommodation;144;Hotel stay for the event
+80;Luca Bianchi;2025-11-29;Equipment;497;Rental of kitchen equipment
+81;Luca Bianchi;2025-01-24;Equipment;332;Rental of kitchen equipment
+82;Oscar Weber;2025-12-24;Travel;183;Flight ticket to event
+83;Carlos Mendes;2025-07-19;Travel;304;Flight ticket to event
+84;Nina Kim;2025-09-05;Equipment;385;Rental of kitchen equipment
+85;Pamela Dawson;2025-01-22;Ingredients;476;Special ingredients for menu
+86;Amelie Laurent;2025-10-26;Other;319;Miscellaneous expenses
+87;Alejandro Torres;2025-01-22;Ingredients;236;Special ingredients for menu
+88;Greta Fischer;2025-05-21;Accommodation;54;Hotel stay for the event
+89;Victor Lee;2025-06-19;Other;366;Miscellaneous expenses
+90;Samir Patel;2025-09-21;Ingredients;492;Special ingredients for menu
+91;Peter Novak;2025-05-16;Accommodation;413;Hotel stay for the event
+92;Anil Sharma;2025-03-21;Ingredients;403;Special ingredients for menu
+93;Luca Bianchi;2025-01-08;Accommodation;344;Hotel stay for the event
+94;Greta Fischer;2025-07-20;Accommodation;188;Hotel stay for the event
+95;Anil Sharma;2025-02-29;Equipment;455;Rental of kitchen equipment
+96;Anil Sharma;2025-03-06;Accommodation;367;Hotel stay for the event
+97;Sophia Ricci;2025-02-13;Equipment;439;Rental of kitchen equipment
+98;Roberto Holz;2025-11-26;Equipment;426;Rental of kitchen equipment
+99;Brooke Baevsky;2025-11-28;Other;189;Miscellaneous expenses
+100;Carlos Mendes;2025-09-04;Accommodation;248;Hotel stay for the event
+101;Victor Lee;2025.07.22;Equipment;189;
+102;Hrtuka Pál;1429;Travel;0.22;
+103;Pásztor Béla;1014.03.06;Ingredients;50;ottvolt
